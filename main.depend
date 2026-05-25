@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1779713572 source:c:\users\Админ\desktop\4sem\sheb\graph_coloring\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<map>
+	<string>
+	<sstream>
+	<algorithm>
+	<cstdlib>
+	<chrono>
+	<iomanip>
+
